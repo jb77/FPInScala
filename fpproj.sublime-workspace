@@ -1,0 +1,629 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ca",
+				"caesarEncode"
+			],
+			[
+				"sp",
+				"sphereVolume"
+			],
+			[
+				"odd",
+				"oddSquaresLessthanTenThou"
+			],
+			[
+				"la",
+				"largerThanPivot"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"double",
+				"doubleMe"
+			],
+			[
+				"pa",
+				"parentAssetID"
+			],
+			[
+				"get",
+				"getCurrentTasks"
+			],
+			[
+				"name",
+				"forName"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "build.sbt",
+			"settings":
+			{
+				"buffer_size": 301,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/bunchj/AppData/Roaming/Sublime Text 3/Packages/User/scala.sublime-build",
+			"settings":
+			{
+				"buffer_size": 159,
+				"line_ending": "Windows",
+				"name": "untitled.sublime-build"
+			}
+		}
+	],
+	"build_system": "Packages/User/scala.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"subl",
+				"SublimeREPL: Scala"
+			],
+			[
+				"sub",
+				"SublimeREPL: Clojure"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/bunchj/Documents/GitHub/FPInScala"
+	],
+	"file_history":
+	[
+		"/C/streams/AFFINITY_FLOW_BPM/bpm/dugis/src/main/scala/com/amtsybex/dts/bpm/dugis/DeviceManagementServices.scala",
+		"/C/streams/AFFINITY_FLOW_BPM/bpm/dugis/src/main/scala/com/amtsybex/dts/bpm/dugis/DeviceEstateManagementServices.scala",
+		"/C/streams/AFFINITY_FLOW_BPM/bpm/core/src/main/resources/DUGIS v0.6 No Signature.xsd",
+		"/C/Users/bunchj/Desktop/SPW SMART/DCCA Questions.txt",
+		"/C/streams/AFFINITY_FLOW_BPM/bpm/core/src/main/resources/Possible_DCCA_Schema.xsd",
+		"/C/Users/bunchj/Desktop/SPW SMART/DCCDocuments/v0.8 notes.txt",
+		"/C/streams/AFFINITY_FLOW_BPM/bpm/core/src/main/resources/RACI_XMLSchema_v0.8.xsd",
+		"/C/streams/marketflow_core_dev/marketflow/db-ifx/src/java/com/amtsybex/dts/core/db/informix/TSBinLoadSession.java",
+		"/C/streams/marketflow_core_dev/marketflow/db-ifx/src/java/com/amtsybex/dts/core/db/informix/TSBinLoadSystem.java",
+		"/C/Users/bunchj/Desktop/SPW SMART/DCCDocuments/v0.8 changes.txt",
+		"/C/Users/bunchj/Downloads/spray-master/spray-master/spray-can/src/main/scala/spray/can/client/HttpHostConnectionSlot.scala",
+		"/C/streams/METERFLOW_SMDS/ProcessManager/app/com/amtsybex/sms/soap/MessageSender.scala",
+		"/C/Users/bunchj/Desktop/MDMEventProcessor_12.44-12.45.log",
+		"/C/streams/AFFINITY_FLOW_BPM/eventprocessing/src/main/scala/com/amtsybex/eventprocessing/applications/notifyevents/EventDBEffector.scala",
+		"/C/Users/bunchj/Desktop/app.log",
+		"/C/streams/AFFINITY_FLOW_BPM/eventprocessing/src/main/resources/readingsstore.conf",
+		"/C/streams/AFFINITY_FLOW_BPM/eventprocessing/src/main/resources/application.conf",
+		"/C/streams/AFFINITY_FLOW_BPM/eventprocessing/src/main/resources/config.conf",
+		"/C/streams/AFFINITY_FLOW_BPM/eventprocessing/src/main/scala/com/amtsybex/eventprocessing/applications/notifyevents/NotifyEventApp.scala",
+		"/C/streams/AFFINITY_FLOW_BPM/eventprocessing/src/main/scala/com/amtsybex/eventprocessing/framework/effectors/HTTPEffector.scala",
+		"/C/streams/AFFINITY_FLOW_BPM/eventprocessing/src/main/scala/com/amtsybex/eventprocessing/applications/notifyevents/NotifyEventAppWithBatching.scala",
+		"/C/Users/bunchj/.m2/settings.xml",
+		"/C/Users/bunchj/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"//AMTBELDIM1/transfer/dimcm12.2/Dimensions_CM_Server__12.2__win32/db_preinstall/oracle/unix/eula_unix_en_us.txt",
+		"/C/Users/bunchj/Desktop/Dimensions_CM_Server__12.2__win32_license.txt",
+		"/C/Program Files (x86)/Serena/Dimensions 12.2/CM/NPL-1.1.lic",
+		"/C/Users/bunchj/Desktop/DARD NIFAIS/Event _ pqq_3029  Project 9043/c10.txt",
+		"/C/Users/bunchj/Desktop/DARD NIFAIS/Event _ pqq_3029  Project 9043/c9.txt",
+		"/C/Users/bunchj/Desktop/npower  bol/DCCDocuments/DS.0154 ServiceUserGateway - DUGIS v0.6.xsd",
+		"/C/Projects/NATIONAL GRID/FDCS/VERSION57/48To57DBMigration/runner.sql",
+		"/C/Users/bunchj/Desktop/DARD NIFAIS/c2 drafting.txt",
+		"/C/Projects/NATIONAL GRID/FDCS/VERSION57/48To57DBMigration/57upgrade.sql",
+		"/C/Projects/NATIONAL GRID/FDCS/VERSION57/48To57DBMigration/constraints_and_index.sql",
+		"/C/Projects/NATIONAL GRID/FDCS/VERSION57/48To57DBMigration/carrythrough.sql",
+		"/C/Users/bunchj/Desktop/DARD NIFAIS/Event _ pqq_3029  Project 9043/c6.txt",
+		"/C/streams/SPO_DEVSTREAM_73/workspace/idex-xsds/XSD/E_MPAN_DISC_REQ.xsd",
+		"/C/streams/SKP1517/workspace/idex-xsds/XSD/E_MPAN_DISC_REQ.xsd",
+		"/C/Users/bunchj/Desktop/DARD NIFAIS/Event _ pqq_3029  Project 9043/c8.txt",
+		"/C/Users/bunchj/Desktop/DARD NIFAIS/Event _ pqq_3029  Project 9043/c7.txt",
+		"/C/Users/bunchj/Desktop/books and courses/Joy of Clojure Review.txt",
+		"/C/clojure-1.5.1/readme.txt",
+		"/C/streams/AFFINITY_FLOW_BPM/persistence/README.txt",
+		"/C/Users/bunchj/Downloads/akka-persistence-jdbc-master/akka-persistence-jdbc-master/src/main/resources/reference.conf",
+		"/C/streams/AFFINITY_FLOW_BPM/persistence/akka.persistence.trial/pom.xml",
+		"/C/streams/AFFINITY_FLOW_BPM/persistence/akka.persistence.trial/.project",
+		"/C/streams/AFFINITY_FLOW_BPM/persistence/akka.persistence.trial/.classpath",
+		"/C/Users/bunchj/Desktop/table.html",
+		"/C/Users/bunchj/Desktop/DMPOOL_root_030288_20140714T140122.log",
+		"/C/Users/bunchj/Documents/GitHub/scala-bash-workshop/README.md",
+		"/C/Users/bunchj/Documents/GitHub/scala-bash-workshop/ex5.sc",
+		"/C/streams/AFFINITY_FLOW_BPM/eventprocessing/src/main/scala/com/amtsybex/eventprocessing/applications/instantenergy/xml/sqlsnippets1.sql",
+		"/C/streams/AFFINITY_FLOW_BPM/eventprocessing/src/main/scala/com/amtsybex/eventprocessing/applications/instantenergy/xml/sqlsnippets2.sql",
+		"/C/streams/AFFINITY_FLOW_BPM/eventprocessing/src/main/scala/com/amtsybex/eventprocessing/applications/instantenergy/xml/sqlsnippets3.sql",
+		"/C/streams/METERFLOW_SMDS/datablade/src/MFValidatePartition.sql",
+		"/C/temp/pickup/.camel/LCMG_XXXX_I002_YYYYMMDDHHMMSS.xml",
+		"/C/streams/marketflow_core_dev/db/informix/ami-asset-db.sql",
+		"/C/streams/marketflow_core_dev/db/informix/ami-asset-db-extra.sql",
+		"/C/temp/pickup/prefixFile60401suffix",
+		"/C/eclipse_sw/eclipse_3.7_scalaIDE-301for2.10/bar",
+		"/C/streams/smart_dts_kaifa_dev/db/informix/ami-asset-db.sql",
+		"/C/Users/bunchj/Desktop/edf smg bol/internal questions.txt",
+		"/C/Users/bunchj/Desktop/talks/intro_workshop/ex1.sc",
+		"/C/Users/bunchj/Desktop/edf smg bol/questions for bid team or EDF.txt",
+		"/C/Users/bunchj/Desktop/edf smg bol/questions for edf.txt",
+		"/C/temp/xsds/profileReadsExp.scala",
+		"/C/Users/bunchj/Desktop/talks/intro_workshop/ex2.sc",
+		"/C/Users/bunchj/Desktop/talks/intro_workshop/ex5_text_and_regexp.sc",
+		"/C/Users/bunchj/Desktop/talks/intro_workshop/ex3.sc",
+		"/C/Users/bunchj/Desktop/talks/intro_workshop/motivatingexample.sc",
+		"/C/Users/bunchj/Desktop/talks/intro_workshop/orders.txt",
+		"/C/Users/bunchj/Desktop/talks/intro_workshop/fifa_rankings.csv",
+		"/C/temp/count.sql",
+		"/C/Users/bunchj/Desktop/npower  bol/Q.B.2.3.8.d.txt",
+		"/C/Users/bunchj/Desktop/npower  bol/DS.0154 ServiceUserGateway - DUGIS v0.6 - Copy.xsd",
+		"/C/Users/bunchj/Downloads/DS.0154 ServiceUserGateway - DUGIS v0.6.scala",
+		"/C/temp/pickup/reads.xml",
+		"/C/temp/pickup/.camel/2097534.XML",
+		"/C/Users/bunchj/Desktop/npower  bol/Q.B.2.3.6.b.txt",
+		"/C/Users/bunchj/Desktop/akka resilience and scalability",
+		"/C/apache-jmeter-2.11/bin/jmeter.bat",
+		"/C/temp/request payload.xml",
+		"/C/streams/METERFLOW_SMDS/api/model/src/main/resources/wsdl/EndDevicePowerUpDownEvent.wsdl",
+		"/C/Users/bunchj/Desktop/spen stuff/Performance Testing/soaptest.tar",
+		"/C/Users/bunchj/Desktop/batch of 1.xml",
+		"/C/Users/bunchj/Desktop/batch of  5.xml",
+		"/C/Users/bunchj/Desktop/batch of  2.xml",
+		"/C/streams/METERFLOW_SMDS/ProcessManager/conf/version.conf",
+		"/C/Program Files (x86)/Serena/Dimensions 12.2/CM/dm.cfg",
+		"/C/temp/appassembler/bin/config.conf",
+		"/C/streams/AFFINITY_FLOW_BPM/eventprocessing/journal/000156.log",
+		"/C/streams/AFFINITY_FLOW_BPM/eventprocessing/journal/CURRENT",
+		"/C/streams/AFFINITY_FLOW_BPM/eventprocessing/journal/MANIFEST-000154",
+		"/C/streams/METERFLOW_SMDS/ProcessManager/conf/application.conf",
+		"/C/Users/bunchj/Desktop/Test.scala",
+		"/C/streams/AFFINITY_FLOW_BPM/eventprocessing/journal/000155.sst",
+		"//spodevn716/dts.config/email-sender-spring_ORIGINAL.xml",
+		"//spodevn716/dts.config/email-handler-spring.xml",
+		"//spodevn716/dts.config/email-sender-spring.xml",
+		"/C/temp/dropOff/foo",
+		"/C/temp/dropOff/ID-PCIDB637-60764-1399545074192-0-1",
+		"/C/temp/appassembler/bin/launcher.bat",
+		"/C/streams/AFFINITY_FLOW_BPM/eventprocessing/target/appassembler/bin/launcher.bat",
+		"/C/streams/AFFINITY_FLOW_BPM/eventprocessing/target/appassembler/bin/launcher",
+		"/C/streams/METERFLOW_SMDS/api/service/src/main/java/com/amtsybex/meterflow/api/dao/impl/EventDaoImpl.java",
+		"/C/temp/procs/proc1_1000.bpmn2",
+		"/C/temp/datasets/dataset_1000.csv",
+		"/C/Users/bunchj/Desktop/Machine Learning/exercises/ex1/ex1data1.txt",
+		"/C/Users/bunchj/Desktop/Machine Learning/exercises/ex1/gradientDescent.m",
+		"/C/Users/bunchj/Desktop/Machine Learning/exercises/ex1/computeCost.m",
+		"/C/Users/bunchj/Desktop/Machine Learning/exercises/ex1/warmUpExercise.m",
+		"/C/temp/scenarios/0_second_cfg.xml",
+		"/C/Users/bunchj/Desktop/Machine Learning/exercises/ex1/plotData.m",
+		"/C/Users/bunchj/Desktop/Machine Learning/exercises/ex1/ex1.m",
+		"/C/Users/bunchj/Desktop/Machine Learning/exercises/ex1/submit.m",
+		"/C/Users/bunchj/Desktop/squarethisnumber.m",
+		"/C/Users/bunchj/Desktop/hello.mat",
+		"/C/streams/SPO_MAINSTREAM/workspace/build_scripts/dts-all.xml",
+		"/C/streams/SPO_MAINSTREAM/workspace/build_scripts/dts-core-suite.xml",
+		"/C/streams/METERFLOW_SMDS/api/rules/src/main/java/com/amtsybex/meterflow/api/rules/impl/SpenRulesServiceImpl.java",
+		"/C/streams/METERFLOW_SMDS/api/service/src/main/java/com/amtsybex/flow/api/dao/AbstractBaseDao.java",
+		"/C/streams/METERFLOW_SMDS/api/service/src/main/resources/api-flow-hibernate-ctx.xml",
+		"/C/streams/METERFLOW_SMDS/api/service/src/main/java/com/amtsybex/meterflow/api/dao/impl/MeterPointDaoImpl.java",
+		"/C/streams/METERFLOW_SMDS/api/service/src/main/java/com/amtsybex/meterflow/api/service/impl/SpenServiceImpl.java",
+		"//amtdtsbld2/HUDSON_HOME/jobs/BEP527/workspace/dist/CatGenFromXSD/getCatFromXSD.bat",
+		"/C/streams/METERFLOW_SMDS/api/model/src/main/java/com/amtsybex/meterflow/api/model/MeterEvent.java",
+		"/C/streams/METERFLOW_SMDS/api/service/src/main/java/com/amtsybex/meterflow/api/dao/AbstractMeterflowBaseDao.java",
+		"/C/streams/METERFLOW_SMDS/api/service/src/main/java/com/amtsybex/meterflow/api/service/impl/EventServiceImpl.java",
+		"/C/Users/bunchj/Desktop/loadtest.log"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"C:\\Users\\bunchj\\Downloads\\spray-master\\spray-master",
+			"C:\\streams\\marketflow_core_dev\\db\\informix",
+			"C:\\streams\\smart_dts_kaifa_dev\\db\\informix",
+			"C:\\streams\\marketflow_core_dev\\db\\informix",
+			"C:\\Projects\\FDCS\\CodeBase\\Applications\\Field Data Manager",
+			"C:\\streams\\SPO_MAINSTREAM\\workspace\\build_scripts",
+			"C:\\streams\\SPO_MAINSTREAM\\build_scripts",
+			"C:\\streams\\METERFLOW_SMDS",
+			"c:\\temp\\procs",
+			"C:\\streams\\SPO_DEVSTREAM_73\\workspace",
+			"C:\\akka-2.3.0-RC2\\src\\akka\\akka-actor-tests\\src\\test",
+			"C:\\Projects\\NATIONAL GRID\\FDCS\\VERSION57\\48To57DBMigration",
+			"C:\\Projects\\FDCS\\CodeBase\\Applications\\Field Data Manager",
+			"C:\\Projects\\FDCS",
+			"C:\\Projects\\NATIONAL GRID\\FDCS\\VERSION57\\48To57DBMigration",
+			"C:\\streams\\SPRAY_POC\\src",
+			"C:\\streams\\METERFLOW_SMDS\\api",
+			"C:\\Users\\bunchj\\Desktop\\jbpm-5.4.x",
+			"C:\\Projects\\NATIONAL GRID\\FDCS\\VERSION57\\48To57DBMigration",
+			"C:\\streams\\smart_dts_kaifa_dev\\api\\model\\src\\main\\resources\\wsdl",
+			"C:\\Projects\\NATIONAL GRID\\FDCS\\VERSION57\\48To57DBMigration",
+			"C:\\play-2.1.4\\samples\\scala\\zentasks",
+			"C:\\Projects\\NATIONAL GRID\\FDCS\\VERSION57\\48To57DBMigration",
+			"C:\\streams\\SMART_METER_SIMULATOR\\experiments\\config",
+			"C:\\streams\\SMART_METER_SIMULATOR\\experiments\\confg",
+			"C:\\streams\\SMART_METER_SIMULATOR\\experiments\\",
+			"C:\\streams\\SMART_METER_SIMULATOR\\experiments\\app",
+			"C:\\Projects\\NATIONAL GRID\\FDCS\\VERSION57\\48To57DBMigration",
+			"C:\\streams\\SMART_DTS_DEV_SP18\\web",
+			"C:\\Projects\\NATIONAL GRID\\FDCS\\VERSION57\\48To57DBMigration",
+			"C:\\temp\\SATDB",
+			"C:\\Projects\\NATIONAL GRID\\FDCS\\VERSION57\\48To57DBMigration",
+			"C:\\Projects\\FDCS\\CodeBase",
+			"C:\\Projects\\NATIONAL GRID\\FDCS\\VERSION57\\48To57DBMigration",
+			"C:\\Projects\\FDCS\\CodeBase",
+			"C:\\Projects\\NATIONAL GRID\\FDCS\\VERSION57\\48To57DBMigration",
+			"C:\\Projects\\FDCS\\CodeBase",
+			"C:\\Projects\\NATIONAL GRID\\FDCS\\VERSION57\\48To57DBMigration",
+			"C:\\Projects\\FDCS\\CodeBase\\Applications\\",
+			"C:\\Projects\\NATIONAL GRID\\FDCS\\VERSION57\\48To57DBMigration",
+			"C:\\Projects\\FDCS\\CodeBase\\",
+			"C:\\Projects\\FDCS\\CodeBase\\Applications\\",
+			"C:\\Projects\\NATIONAL GRID\\FDCS\\VERSION57\\48To57DBMigration",
+			"C:\\Projects\\FDCS\\",
+			"C:\\Projects\\FDCS\\CodeBase\\Applications\\",
+			"C:\\Projects\\NATIONAL GRID\\FDCS\\VERSION57\\48To57DBMigration",
+			"C:\\Projects\\FDCS\\CodeBase\\Applications\\ScriptBuilder",
+			"C:\\Projects\\FDCS\\CodeBase\\Applications\\",
+			"C:\\Projects\\FDCS\\CodeBase\\Applications\\ScriptBuilder",
+			"C:\\Projects\\NATIONAL GRID\\FDCS\\VERSION562\\DBMigration",
+			"C:\\streams\\SPO_DEVSTREAM_73\\workspace\\",
+			"C:\\streams\\SPO_DEVSTREAM_73\\workspace\\batcher",
+			"C:\\streams\\SPO_DEVSTREAM_73\\workspace",
+			"C:\\Program Files\\FieldReach\\Script-Player\\Live\\Data"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"okrespon",
+			"UpdateDeviceconfigurationloadlimitingcounterreset",
+			"UpdateDeviceConfigurationLoadLimitCounterResetResp",
+			"UpdateDeviceconfigurationloadlimitingcounterreset",
+			"UpdateDeviceConfigurationLoadLimitCounterResetResp",
+			"\"ReadDataOnDemand\"",
+			"ResponseMessage",
+			"ReadLoadLimitCounterRsp",
+			"ResponsePayload",
+			"ReadLoadLimitCounterRsp",
+			"futuredated",
+			"local",
+			"probe ",
+			"ds:",
+			"ds:sig",
+			"ReadLogPeriod",
+			"ProfileData",
+			"ReadProfileData",
+			"\"Response\"",
+			"smsser",
+			"startprocess",
+			"\"Request\"",
+			"Request\"",
+			"servicerequest",
+			"responseCode",
+			"response",
+			"ServiceReference",
+			"commandvariant",
+			"ReadTariffSecondaryElementRsp",
+			"maximumdemandschedul",
+			"nondisable",
+			"ra:",
+			"DayNameElec",
+			"curvepo",
+			"total",
+			"marks",
+			"path",
+			"paintbez",
+			"democompon",
+			"createGUI",
+			"calculate",
+			"clear",
+			"502",
+			"retrying",
+			"retry",
+			"07/09/2014 12:44",
+			"1800025656046",
+			"502 ",
+			"executionDateTime",
+			"unhandled event Name",
+			"transition",
+			"sg_addreq",
+			"TB ",
+			"<lib_var>",
+			"m_handle",
+			"initialiseSession",
+			"_put",
+			"tls_",
+			"log",
+			"flushres",
+			"m_handle",
+			"<alarm>",
+			"ami_mtr_evnt_stg_seq",
+			"ami_equip_e",
+			"table AMI_EQUIP_EVNT",
+			"table AMI_EVNT_EVNT",
+			"table AMI_EVNT_TYP",
+			"AMI_EVNT_TYP ",
+			"AMI_EVNT_CAT",
+			"AMI_EVNT_TYP",
+			"ami_equip_evnt",
+			"AMI_MTR_EVNT",
+			"ami_mtr_ev",
+			"C:\\streams\\marketflow_core_dev\\db\\informix",
+			"ami_mtr_ev",
+			" ",
+			"                                                  //|",
+			"number7u469value",
+			"ds:",
+			"read",
+			"connect",
+			"xs",
+			"xs:import",
+			"java",
+			"soapaction",
+			"-D",
+			"dataset",
+			"18.945",
+			"18.9",
+			"nwcetool.location",
+			"path",
+			"build-dts-sca",
+			"sca",
+			"findNextStagingTableSequence",
+			"GET_SEQUENCE_NEXTVAL",
+			"ami_mtr_evnt_stg_seq",
+			"INSERT_BUSINESS_EVENTS_BATCH",
+			"ami_bus_e",
+			"+",
+			"\"",
+			"AbstractBaseDao",
+			"AbstractMeterflowBaseDao",
+			"getHibernateSession",
+			"updateMeterPoint",
+			"meterpointDAO",
+			"SpenService",
+			"eventserviceimpl",
+			"spenrulesserviceimpl",
+			"spenruleserviceimpl",
+			"EventDAOImpl",
+			"dataset",
+			"Dtscomponent",
+			"Lazy",
+			"AbstractDtsMessageDrivenBean",
+			"fileregistrationbean",
+			"DTSDeliveryMDB",
+			"DTSLoadToDBBean",
+			"DTSLoadToDB",
+			"1.2.0",
+			"1F8B0800",
+			"onclick",
+			"<input type=\"hidden\" name=\"javax\\.faces\\.ViewState\" id=\"javax.faces.ViewState\" value=\"([^\"]+)\".*>",
+			"<input type=\"hidden\" name=\"javax\\.faces\\.ViewState\" id=\"javax.faces.ViewState\" value=.*> ",
+			"<input type=\"hidden\" name=\"javax\\.faces\\.ViewState\" id=\"javax.faces.ViewState\" value=\"(.*)\".*> ",
+			"ViewState",
+			"fileSearchFormId",
+			"scalacheck",
+			"to_number(to_char(sysdate,'YYYYMMDD'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sr:",
+			"LD_LIBRARY_PATH",
+			"",
+			"1.3.1",
+			"?",
+			"X",
+			"",
+			",0,Normal",
+			"",
+			"192.0.200.246",
+			"%scriptdir%",
+			"mySOAPForumwebservices",
+			" mySOAPForum",
+			" ",
+			"",
+			"RESULTSTATUSLOG",
+			"RESULTNOTES",
+			"SYSTEMUSERS",
+			"SUPERVTEXT",
+			"SCRIPTVERSIONS",
+			"SCRIPTRESULTS",
+			"SCRIPTPROFILES",
+			"SCRIPTPASSWORD",
+			"SCRIPTLOCK",
+			"RETURNEDSCRIPTS",
+			"RESLOG",
+			"PERSONALVIEWS",
+			"ACTIVITYLOG",
+			"",
+			"resulttime"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "build.sbt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/bunchj/AppData/Roaming/Sublime Text 3/Packages/User/scala.sublime-build",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								77
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 169.0
+	},
+	"output.find_results":
+	{
+		"height": 227.0
+	},
+	"output.sbt":
+	{
+		"height": 0.0
+	},
+	"output.sbt_error":
+	{
+		"height": 0.0
+	},
+	"project": "fpproj.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
